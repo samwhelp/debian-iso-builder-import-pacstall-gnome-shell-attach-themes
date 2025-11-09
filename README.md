@@ -13,7 +13,7 @@
 | `+` |
 | [debian-iso-builder-import-pacstall-gnome-shell-attach-themes](https://github.com/samwhelp/debian-iso-builder-import-pacstall-gnome-shell-attach-themes) |
 | `=` |
-| [debian-iso-builder-include-pacstall-gnome-shell-theme-vimix](https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-theme-vimix) |
+| [debian-iso-builder-include-pacstall-gnome-shell-attach-themes](https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-attach-themes) |
 
 
 
